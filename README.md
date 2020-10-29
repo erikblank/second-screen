@@ -1,5 +1,6 @@
 # software for a second-screen for a computer
 This repository is based on the assumption that there is no second screen for a computer yet and contains the fictitious software for it.
+
 <img src="./second-screen.jpg" alt="second-screen" width="600"/>
 
 ## Prerequisites 
